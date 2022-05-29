@@ -1,0 +1,11 @@
+C:\Users\LeonelLora\Desktop\Tareas Adelantadas\HerramientasCONCIVELS\HerramientasCONCIVELS\bin\Debug\HerramientasCONCIVELS.exe.config
+C:\Users\LeonelLora\Desktop\Tareas Adelantadas\HerramientasCONCIVELS\HerramientasCONCIVELS\bin\Debug\HerramientasCONCIVELS.exe
+C:\Users\LeonelLora\Desktop\Tareas Adelantadas\HerramientasCONCIVELS\HerramientasCONCIVELS\bin\Debug\HerramientasCONCIVELS.pdb
+C:\Users\LeonelLora\Desktop\Tareas Adelantadas\HerramientasCONCIVELS\HerramientasCONCIVELS\obj\Debug\HerramientasCONCIVELS.csproj.AssemblyReference.cache
+C:\Users\LeonelLora\Desktop\Tareas Adelantadas\HerramientasCONCIVELS\HerramientasCONCIVELS\obj\Debug\HerramientasCONCIVELS.csproj.SuggestedBindingRedirects.cache
+C:\Users\LeonelLora\Desktop\Tareas Adelantadas\HerramientasCONCIVELS\HerramientasCONCIVELS\obj\Debug\HerramientasCONCIVELS.formInterfazH.resources
+C:\Users\LeonelLora\Desktop\Tareas Adelantadas\HerramientasCONCIVELS\HerramientasCONCIVELS\obj\Debug\HerramientasCONCIVELS.Properties.Resources.resources
+C:\Users\LeonelLora\Desktop\Tareas Adelantadas\HerramientasCONCIVELS\HerramientasCONCIVELS\obj\Debug\HerramientasCONCIVELS.csproj.GenerateResource.cache
+C:\Users\LeonelLora\Desktop\Tareas Adelantadas\HerramientasCONCIVELS\HerramientasCONCIVELS\obj\Debug\HerramientasCONCIVELS.csproj.CoreCompileInputs.cache
+C:\Users\LeonelLora\Desktop\Tareas Adelantadas\HerramientasCONCIVELS\HerramientasCONCIVELS\obj\Debug\HerramientasCONCIVELS.exe
+C:\Users\LeonelLora\Desktop\Tareas Adelantadas\HerramientasCONCIVELS\HerramientasCONCIVELS\obj\Debug\HerramientasCONCIVELS.pdb
